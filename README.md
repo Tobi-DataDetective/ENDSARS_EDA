@@ -1,5 +1,6 @@
 # ENDSARS
 
-<img src=https://technext.ng/wp-content/uploads/2020/10/EklVcgEVoAA6tdy.jpg width=600>
+## Report 
+(To download the report click [pdf](https://github.com/Tobi-DataDetective/ENDSARS_EDA/blob/main/report/Endsars%20Infographic.pdf) or [png](https://github.com/Tobi-DataDetective/ENDSARS_EDA/blob/main/report/Endsars%20Infographic%20png.png))
 
-End SARS is a decentralised social movement, and series of mass protests against police brutality in Nigeria. The slogan calls for the disbanding of the Special Anti-Robbery Squad (SARS), a notorious unit of the Nigerian Police with a long record of abuses. The protest takes its name from the slogan started in 2017 as a Twitter campaign using the hashtag #EndSARS to demand the disbanding of the unit by the Nigerian government. After experiencing a revitalisation in October 2020 following more revelations of the abuses of the unit, mass demonstrations occurred throughout the major cities of Nigeria, accompanied by vociferous outrage on social media platforms. About 28 million tweets bearing the hashtag have been accumulated on Twitter alone. Solidarity protests and demonstrations by Nigerians in diaspora and sympathizers occurred in many major cities of the world. The protests is notable for its patronage by a demographic that is made of entirely young Nigerians. The movement has since expanded to include demands for good and accountable governance.
+<img src=https://github.com/Tobi-DataDetective/ENDSARS_EDA/blob/main/report/Endsars%20Infographic%20png.png>
